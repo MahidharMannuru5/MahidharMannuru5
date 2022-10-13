@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on React and Django projects
 - 🤔 I’m looking for help with GSoc, GitHub externship, GitHub campus expert
 - 💬 Ask me about Full stack web Development 
-- 📫 How to reach me: ...
+- 📫 How to reach me: ...hm
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 -->
